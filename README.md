@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @demoladmlcode
 - 👀 I’m interested in promoting my skills also learning more programming languages and 
-- 🌱 I’m currently learning HTML5,CSS and JS
+- 🌱 I’m currently learning React, Rust, Helius
 - 💞️ I’m looking to collaborate on any project that can help me improve my skills
 - 📫 How to reach me: I can be contacted through the following means;
   wattsapp: 08137095333
